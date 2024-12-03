@@ -1,3 +1,6 @@
+#Nicky aditya bagus
+#152023065
+#BB
 data_panen = {
     'lokasi1' : {
         'nama_lokasi' : 'Kebun A',
